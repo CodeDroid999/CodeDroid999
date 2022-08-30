@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&theme=blue-green&show_icons=true)
 
 <!--

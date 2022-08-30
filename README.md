@@ -3,6 +3,8 @@
 
 ## I am John Mwega, Software Engineer.
 
+![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+
 - 🌱 I’m currently learning  BSc. Computer Technology at JKUAT.
 
 - 📫 How to reach me:
@@ -56,7 +58,7 @@ Java         38 mins         █░░░░░░░░░░░░░░░░
 
 <!--### Github Stats-->
 
-![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+
 
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 

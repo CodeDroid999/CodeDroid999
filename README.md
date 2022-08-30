@@ -10,15 +10,11 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
 
 
 ## Frameworks
-<p>
- <h2>Angular</h2>
-<img align="left" width="47%" src= "https://angular.io/assets/images/logos/angular/logo-nav@2x.png">
-</p>
-<br>
-<p>
- <h2>Django</h1>
-<img align="left" width="47%"src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg">
- </p>
+- Angular
+- Django
+  ![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
+
+<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" />
 
 
 

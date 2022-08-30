@@ -52,29 +52,29 @@ Java         38 mins         █░░░░░░░░░░░░░░░░
 
 ### 🏆 <!--My Trophies-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mbote-Joseph&theme=onedark&no-bg=false&count_private=true)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeDroid999&theme=onedark&no-bg=false&count_private=true)](https://github.com/CodeDroid999/CodeDroid999)
 
 <!--### Github Stats-->
 
-![Mbote_Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mbote-Joseph&theme=dark" /></p>
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 
 <!--### Github extra pins-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mbote-Joseph&repo=Mbote-Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDroid999&repo=CodeDroid&theme=dark&title_color=009933)](https://github.com/CodeDroid/CodedDroid&show_owner=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbote-Joseph&layout=compact&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)
 
-[![Mbote's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mbote_Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+[![John Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)
 
-<!-- ## Frameworks
+ ## Frameworks
 
 - Angular
 - Django
   ![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
 
-<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" /> -->
+<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" /> 
 
 <!-- ## Libraries
 
@@ -83,34 +83,32 @@ Java         38 mins         █░░░░░░░░░░░░░░░░
 ## Contribution Graph
 
 <p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Mbote-Joseph&theme=github" alt="Mbote_Joseph" />
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=CodeDroid999&theme=github" alt="John Mwega" />
 </p>
 &nbsp;
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
-  <a href="https://www.linkedin.com/in/mbote-joseph">
+  <a href="https://www.linkedin.com/in/john-mwega">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/mbote-joseph">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+          
   </a>&nbsp;&nbsp;
- <a href="https://wa.me/+254792622515">
+ <a href="https://wa.me/+254757768262">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>&nbsp;&nbsp;
- <a href="mailto:mbotejoseph001@gmail.com">
+ <a href="mailto:johnmwegah@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-  <a href="https://t.me/Jose Mbote">
+  <a href="https://t.me/John Mwega">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
  </a> &nbsp;&nbsp;
 </p>
 
 <p align='center'>
-  <a href="https://twitter.com/Mbote Jose">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Mbote-Joseph">
+  
+ 
+  <a href="https://github.com/CodeDroid">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
  

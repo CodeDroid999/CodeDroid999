@@ -3,9 +3,9 @@
 
 ## I am John Mwega, Software Engineer.
 
-<img align="left">![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)>
+<img >![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-<img align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)>
 
 - 🌱 I’m currently learning  BSc. Computer Technology at JKUAT.
 

@@ -1,9 +1,11 @@
-<h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
+<h1>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h1>
 
 
 ## I am John Mwega, Software Engineer.
 
-![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+<h2 align="left">![John Mwegah's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)</h2>
+
+<h2 align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)</h2>
 
 - 🌱 I’m currently learning  BSc. Computer Technology at JKUAT.
 
@@ -66,7 +68,7 @@ Java         38 mins         █░░░░░░░░░░░░░░░░
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDroid999&repo=CodeDroid&theme=dark&title_color=009933)](https://github.com/CodeDroid/CodedDroid&show_owner=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)
+
 
 [![John Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodedDroid999)
 

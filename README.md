@@ -18,3 +18,11 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
 
 
 
+
+# 😂 Here is a random joke for you today: -
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+

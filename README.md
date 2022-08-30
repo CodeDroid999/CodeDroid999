@@ -5,3 +5,5 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&langs_count=6">
 
 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+

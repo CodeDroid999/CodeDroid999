@@ -24,7 +24,7 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
         <a href="https://simpli-web.app.link/e/V4hRr4BYVsb">
           <img
             width="300px"
-            src="assets/images/angular.png"
+            src="![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)"
           />
         </a>
       </td>

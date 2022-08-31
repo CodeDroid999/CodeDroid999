@@ -23,11 +23,22 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
   </a>
 </p>
 
-## Contribution Graph
+### 📊 Monthly development breakdown
 
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=CodeDroid999&theme=github" alt="John Mwega" />
-</p>
+<!--START_SECTION:waka-->
+
+```text
+From: 24 July 2022 - To: 23 August 2022
+
+Python       9 hrs 18 mins   ████████████▒░░░░░░░░░░░░   48.68 %
+HTML         4 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+TypeScript   1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+CSS          1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Text         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Java         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+```
+
+<!--END_SECTION:waka-->
 
 
 

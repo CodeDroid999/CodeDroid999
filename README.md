@@ -21,7 +21,7 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
   <tbody>
     <tr>
       <td>
-        <a href="https://simpli-web.app.link/e/V4hRr4BYVsb">
+        <a href="https://simpli-web.app.link/e/siS7JMjZVsb">
           <img
             width="300px"
             src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
@@ -29,9 +29,13 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
         </a>
       </td>
       <td>
-        <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzE5IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfMzY0ODk1M18xNjU5MDAyMjQ1LnBuZyIsInVzZXJuYW1lIjoiSm9obiBNd2VnYSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4207%2FAngular-Basics%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1092667852333827967&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVL0wy8q3KcPQzLEoCAAI9JYolAAAA"
+        <a href="https://simpli-web.app.link/e/HQg5x4rZVsb"
           >Verify</a
         >
+       <img
+            width="300px"
+            src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+          />
       </td>
       <td>
         <a href="https://www.freecodecamp.org/certification/johnmwega/responsive-web-design">

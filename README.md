@@ -1,6 +1,6 @@
 <h3>Hi there,I'm Mwega <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
  
-<img align="left" width="47%"alt="John Mwega's's GitHub stats"src="https://github-readme-stats.vercel.app/api?username=CodeDroid999)](https://github.com/CodeDroid999/github-readme-stats">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid&layout=compact&theme=blue-green&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999">
 

@@ -54,27 +54,6 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
-<p align='center'>
-  <a href="https://www.linkedin.com/in/john-mwega">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
- <a href="https://wa.me/+254757768262">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>&nbsp;&nbsp;
- <a href="mailto:johmwegah@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>&nbsp;&nbsp;
-</p>
-  <a href="https://github.com/CodeDroid999/CodeDroid999">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- 
-</p>
-
- 
-
-
 
 [![wakatime](https://wakatime.com/badge/user/723199b5-a23d-4560-937a-016d503b743f.svg)](https://wakatime.com/@723199b5-a23d-4560-937a-016d503b743f)
 
@@ -101,12 +80,10 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
  <a href="mailto:johmwegah@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-</p>
-  <a href="https://github.com/CodeDroid999/CodeDroid999">
+ <a href="https://github.com/CodeDroid999/CodeDroid999">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
  
-</p>
 
 
 # 😂 Here is a random joke for you today: -

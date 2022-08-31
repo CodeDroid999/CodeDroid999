@@ -16,45 +16,7 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
 
 <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" />
 
- <h2>Certifications</h2>  
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://simpli-web.app.link/e/siS7JMjZVsb">
-          <img
-            width="300px"
-            src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://simpli-web.app.link/e/HQg5x4rZVsb"
-          >Verify</a
-        >
-       <img
-            width="300px"
-            src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
-          />
-      </td>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/johnmwega/responsive-web-design">
-          <img
-            src="assets/images/hourOfCode.jpeg"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://certificates.simplicdn.net/share/3662888_1659456643.pdf"
-          >Verify</a
-        >
-      </td>
-    </tr>
-  </tbody>
-</table>
-</details>
-</h2>
+
 
 
 ### 📊 Monthly development breakdown

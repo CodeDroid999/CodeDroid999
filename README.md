@@ -1,14 +1,4 @@
-<h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
-
-[![portfolio](assets/images/portfolio.png)](https://mbote-joseph.netlify.app/)
-
-## I am Mbote-Joseph, Software Engineer.
-
-- 🌱 I’m currently learning and in my final year BSc. Computer Science at JKUAT.
-
-- 📫 How to reach me:
-  -Email: mbotejoseph001@gmail.com
-  Mobile: +254792622515
+<h3>Hi there,I'm Mwega <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
 
   ## Top Technologies
 
@@ -51,128 +41,43 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
 
-### 🏆 <!--My Trophies-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mbote-Joseph&theme=onedark&no-bg=false&count_private=true)](https://github.com/Mbote-Joseph/Mbote-Joseph)
 
-<!--### Github Stats-->
+![John Mwega's's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-![Mbote_Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
-
-<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mbote-Joseph&theme=dark" /></p>
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 
 <!--### Github extra pins-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mbote-Joseph&repo=Mbote-Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDroid&repo=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid99&show_owner=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbote-Joseph&layout=compact&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid&layout=compact&theme=blue-green&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999)
 
-[![Mbote's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mbote_Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+[![Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999)
 
-<!-- ## Frameworks
 
-- Angular
-- Django
-  ![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
-
-<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" /> -->
-
-<!-- ## Libraries
-
-- React JS -->
-
-## Contribution Graph
-
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Mbote-Joseph&theme=github" alt="Mbote_Joseph" />
-</p>
-&nbsp;
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
-  <a href="https://www.linkedin.com/in/mbote-joseph">
+  <a href="https://www.linkedin.com/in/john-mwega">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/mbote-joseph">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- <a href="https://wa.me/+254792622515">
+ <a href="https://wa.me/+254757768262">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>&nbsp;&nbsp;
- <a href="mailto:mbotejoseph001@gmail.com">
+ <a href="mailto:johmwegah@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-  <a href="https://t.me/Jose Mbote">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a> &nbsp;&nbsp;
 </p>
-
-<p align='center'>
-  <a href="https://twitter.com/Mbote Jose">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Mbote-Joseph">
+  <a href="https://github.com/CodeDroid999/CodeDroid999">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
  
 </p>
 
- <h2>Certifications</h2>  
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://simpli-web.app.link/e/PUxkULg0arb">
-          <img
-            width="300px"
-            src="assets/images/angular.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://simpli-web.app.link/e/PUxkULg0arb"
-          >Verify</a
-        >
-      </td>
-      <td>
-        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
-          <img
-            src="assets/images/hourOfCode.jpeg"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="http://code.org/certificates/_1_2f59494bc95e0d704a5fd0be41843e1c"
-          >Verify</a
-        >
-      </td>
-    </tr>
-  </tbody>
-</table>
-</details>
-</h2>
+ 
 
-- ⚡ Fun fact: Not today, Not tomorrow but One day
 
-```
- [🌲,🌳,🌴].push(🌲)
-```
-
-<!--
-**Mbote-Joseph/Mbote-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![wakatime](https://wakatime.com/badge/user/723199b5-a23d-4560-937a-016d503b743f.svg)](https://wakatime.com/@723199b5-a23d-4560-937a-016d503b743f)
 
@@ -181,7 +86,7 @@ Here are some ideas to get you started:
 [![Image of https://github.com/Mbote-Joseph/wakatime-views-counter](https://github.com/Mbote-Joseph/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
 
 <p>
-  <a href="https://github.com/Mbote-Joseph?tab=followers">
+  <a href="https://github.com/CodeDroid999?tab=followers">
     <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>

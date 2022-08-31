@@ -26,12 +26,12 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
 ```text
 From: 24 July 2022 - To: 23 August 2022
 
-Python       9 hrs 18 mins   ████████████▒░░░░░░░░░░░░   48.68 %
-HTML         4 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-TypeScript   1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-CSS          1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Text         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Java         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Python       13 hrs 18 mins   ████████████▒░░░░░░░░░░░░   48.68 %
+HTML         7hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+TypeScript   3 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+C            3 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+CSS          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Text         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->

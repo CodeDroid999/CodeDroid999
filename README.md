@@ -50,7 +50,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--### Github extra pins-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedroid&repo=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid99&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedroid&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid99&show_owner=true&count_private=true)
 
 
 [![Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codedroid&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999)

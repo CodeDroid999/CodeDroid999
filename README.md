@@ -48,12 +48,6 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
 
-
-
-![John Mwega's's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
-
-<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
-
 <!--### Github extra pins-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeDroid&repo=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid99&show_owner=true&count_private=true)

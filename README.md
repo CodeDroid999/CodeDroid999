@@ -21,7 +21,7 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
   <tbody>
     <tr>
       <td>
-        <a href="https://www.freecodecamp.org/certification/johnmwega/responsive-web-design">
+        <a href="https://simpli-web.app.link/e/V4hRr4BYVsb">
           <img
             width="300px"
             src="assets/images/angular.png"
@@ -34,7 +34,7 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
         >
       </td>
       <td>
-        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
+        <a href="https://www.freecodecamp.org/certification/johnmwega/responsive-web-design">
           <img
             src="assets/images/hourOfCode.jpeg"
             width="300px"

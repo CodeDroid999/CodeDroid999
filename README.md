@@ -1,8 +1,8 @@
 <h3>Hi there,I'm Mwega <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
  
-<img align="left" width="47%"alt="John Mwega's's GitHub stats"src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true"
+<img align="left" width="47%"alt="John Mwega's's GitHub stats"src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true">
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid&layout=compact&theme=blue-green&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999"
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid&layout=compact&theme=blue-green&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999">
 
   ## Top Technologies
 

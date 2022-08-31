@@ -23,6 +23,12 @@ Hi there,I'm Mwega! <img src="https://github.com/hariketsheth/hariketsheth/blob/
   </a>
 </p>
 
+## Contribution Graph
+
+<p>
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=CodeDroid999&theme=github" alt="John Mwega" />
+</p>
+
 
 
 # 😂 Here is a random joke for you today: -

@@ -4,7 +4,7 @@
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="47%" height="157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
+  <img align="center" width="47%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
 </a>
 
   ## Top Technologies

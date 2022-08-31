@@ -2,7 +2,7 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid&layout=compact&theme=blue-green&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999c)](https://github.com/anuraghazra/github-readme-stats)
 
   ## Top Technologies
 

@@ -58,7 +58,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 <p>
   <a href="https://github.com/CodeDroid999?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
 

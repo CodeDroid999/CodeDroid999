@@ -1,7 +1,7 @@
 <h3>Hi there,I'm Mwega <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="47%" height="200px" padding="0px"src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green" />
+  <img align="center" width="47%" height="200px" padding="0px"src="https://github-readme-stats.vercel.app/api?username=CodeDroid99&count_private=true&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="47%" height="200px" padding="0px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />

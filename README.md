@@ -41,20 +41,12 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
- 
 
-<!--### Github extra pins-->
-
-[![Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999)
-
-
-
-
-[![wakatime](https://wakatime.com/badge/user/723199b5-a23d-4560-937a-016d503b743f.svg)](https://wakatime.com/@723199b5-a23d-4560-937a-016d503b743f)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Views
 
-[![Image of https://github.com/Mbote-Joseph/wakatime-views-counter](https://github.com/Mbote-Joseph/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
+[![Image of https://github.com/CodeDroid999/wakatime-views-counter](https://github.com/CodeDroid999/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
 
 <p>
   <a href="https://github.com/CodeDroid999?tab=followers">

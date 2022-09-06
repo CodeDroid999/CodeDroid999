@@ -45,7 +45,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--### Github extra pins-->
 
-[![Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codedroid&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999)
+[![Mwega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999&theme=dark&title_color=009933)](https://github.com/CodeDroid999/CodeDroid999)
 
 
 

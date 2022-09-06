@@ -42,14 +42,11 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 
-###wakatime week stats
- <p>
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
   
 ### Views
 
-[![Image of https://github.com/CodeDroid999/wakatime-views-counter](https://github.com/CodeDroid999/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
+[![Image of https://github.com/Mbote-Joseph/wakatime-views-counter](https://github.com/Mbote-Joseph/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
 
 <p>
   <a href="https://github.com/CodeDroid999?tab=followers">

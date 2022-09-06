@@ -42,7 +42,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999)](https://github.com/anuraghazra/github-readme-stats)
+[![Mwega's  wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeDroid999)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Views
 

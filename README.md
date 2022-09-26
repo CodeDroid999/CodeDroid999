@@ -44,7 +44,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 
   
-### Views
+
 
 <!--[![Image of https://github.com/CodeDroid999/wakatime-views-counter](https://github.com/codedroid/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/CodeDroid999/wakatime-views-counter)-->
 

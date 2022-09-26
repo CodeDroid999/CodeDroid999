@@ -30,7 +30,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Experience
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
@@ -49,7 +49,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--[![Image of https://github.com/CodeDroid999/wakatime-views-counter](https://github.com/codedroid/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/CodeDroid999/wakatime-views-counter)-->
 
-<p>
+<p align="left">
   <a href="https://github.com/CodeDroid999?tab=followers">
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>

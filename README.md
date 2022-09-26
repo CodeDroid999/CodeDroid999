@@ -27,6 +27,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mbote-Joseph&theme=dark" /></p>
 
 ### Experience
 
@@ -47,7 +48,7 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
   
 
 
-<!--[![Image of https://github.com/CodeDroid999/wakatime-views-counter](https://github.com/codedroid/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/CodeDroid999/wakatime-views-counter)-->
+[![Image of https://github.com/CodeDroid999/wakatime-views-counter](https://github.com/CodeDroid999/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/CodeDroid999/wakatime-views-counter)
 
 <p align="left">
   <a href="https://github.com/CodeDroid999?tab=followers">

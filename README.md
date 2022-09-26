@@ -45,10 +45,6 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 
 
-
-
-[![Image of https://github.com/CodeDroid999/wakatime-views-counter]<img width="400px" src="https://github.com/CodeDroid999/wakatime-views-counter/blob/master/svg/profile/badge.svg"/>)](https://github.com/CodeDroid999/wakatime-views-counter)
-
 <p align="left">
   <a href="https://github.com/CodeDroid999?tab=followers">
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />

@@ -42,6 +42,9 @@ JSON         18 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeDroid999"/>
+
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 
 

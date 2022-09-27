@@ -31,14 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 29 August 2022
+From: 30 August 2022 - To: 29 September 2022
 
 Python       8 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.10 %
 HTML         3 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 %
 TypeScript   1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
 CSS          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Text         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Shell        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->

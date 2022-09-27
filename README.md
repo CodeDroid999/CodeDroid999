@@ -29,20 +29,6 @@
   </p>
 <!--Experience-->
   
-<!--dev breakdown-->
-### Monthly development breakdown
-From: 30 August 2022 - To: 29 September 2022
-
-Python       8 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.10 %
-HTML         3 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 %
-TypeScript   1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-CSS          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Markdown     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Shell        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-
-
-<!--dev breakdown-->
-
 <!--Trophies-->
 ### My Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&theme=onedark&no-bg=false&count_private=true)

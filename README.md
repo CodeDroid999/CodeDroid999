@@ -31,7 +31,6 @@
   
 <!--dev breakdown-->
 ### Monthly development breakdown
----text
 From: 30 August 2022 - To: 29 September 2022
 
 Python       8 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.10 %

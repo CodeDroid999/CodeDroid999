@@ -44,7 +44,7 @@ Shell        18 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### My Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&theme=onedark&no-bg=false&count_private=true)]
+![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&theme=onedark&no-bg=false&count_private=true)
 
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 

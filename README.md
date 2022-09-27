@@ -13,7 +13,7 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)     ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 <!--technologies-->
 
-<!--Experinence-->
+<!--Expirience-->
 ### Experience
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </p>
-  <!--Experience-->
+<!--Experience-->
   
 <!--dev breakdown-->
 ### Monthly development breakdown
@@ -40,7 +40,7 @@ TypeScript   1 hr 36 mins    ██▒░░░░░░░░░░░░░░
 CSS          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 Markdown     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 Shell        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-```text
+
 
 <!--dev breakdown-->
 
@@ -49,7 +49,7 @@ Shell        18 mins         ▒░░░░░░░░░░░░░░░░
 ![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&theme=onedark&no-bg=false&count_private=true)
 <!--Trophies-->
 
-<--github stats-->
+<!--github stats-->
 ### Github Stats
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 
@@ -60,7 +60,7 @@ Shell        18 mins         ▒░░░░░░░░░░░░░░░░
 </p>
 <!--Github Stats-->
 
-
+<!--let's connect-->
 <h3 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='left'>
   <a href="https://wa.me/+254757768262">
@@ -75,6 +75,8 @@ Shell        18 mins         ▒░░░░░░░░░░░░░░░░
   <a href="https://www.linkedin.com/in/john-mwega">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+ 
+ <!--let's connect-->
  
 
 

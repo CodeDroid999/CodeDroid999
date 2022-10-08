@@ -1,12 +1,12 @@
 <h3>Hi there,I'm Mwega <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
  <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="650vw" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green" />
+  <img width="650vw" height="200px" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green" />
 </a>
 </p>
 <p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="650vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
+  <img width="650vw" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
 </a>
  </p>
 

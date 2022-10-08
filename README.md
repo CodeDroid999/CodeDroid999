@@ -6,7 +6,7 @@
 </p>
 <p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="650vw" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
+  <img width="650vw" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
 </a>
  </p>
 

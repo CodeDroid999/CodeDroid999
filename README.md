@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="650vw" height="200px" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green" />
+  <img align="left" width="650vw" height="200px" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green&no-frame=true" />
 </a>
 
 

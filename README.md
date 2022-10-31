@@ -58,7 +58,10 @@
 
 
 <!--Github Stats-->
-<a><img src="https://wakatime.com/share/@codedroid/2cd519cd-4996-481f-a4d4-591d9a7bc31d.svg"></a>
+<--wakatime Stats-->
+###Wakatime Stats
+<a><img height="200px" src="https://wakatime.com/share/@codedroid/2cd519cd-4996-481f-a4d4-591d9a7bc31d.svg"></a>
+<---wakatime starts-->
 <!--Trophies-->
 ### My Trophies
 

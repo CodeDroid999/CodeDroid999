@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm Mwega!...;A+software+engineer+UI/UX+Designer...;Great+to+have+you+here!🖤&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Mwega!...;A+software+engineer+UI/UX+Designer...;Great+to+have+you+here!🖤&center=true&size=20">
   </a>
 </h1>
 

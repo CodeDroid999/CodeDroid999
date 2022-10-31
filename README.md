@@ -61,19 +61,19 @@
 
 
 
-<--wakatime Stats-->
-###Wakatime Stats
-<a><img src="https://wakatime.com/share/@codedroid/19f10759-ea85-4db3-a321-6dfda0c282da.svg"></a>
-<---wakatime starts-->
-
-
-
 <!--Trophies-->
 ### My Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
 
 <!--Trophies-->
-[![wakatime](https://wakatime.com/badge/github/CodeDroid999.svg)](https://wakatime.com/badge/github/CodeDroid999/MIPS-Assembler-in-C)
+[![wakatime](https://wakatime.com/badge/github/CodeDroid999.svg)](https://wakatime.com/badge/github/CodeDroid999)
+
+
+
+<!--wakatime Stats-->
+###Wakatime Stats
+<a><img src="https://wakatime.com/share/@codedroid/19f10759-ea85-4db3-a321-6dfda0c282da.svg"></a>
+<!---wakatime starts-->
 
 <!--let's connect-->
 <h1 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  

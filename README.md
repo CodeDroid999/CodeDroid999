@@ -83,7 +83,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   
-![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
+
 
 
 

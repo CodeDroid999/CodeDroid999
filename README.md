@@ -55,6 +55,7 @@
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
 <!--(Generate Snake) Action on default Branch -->
 <p>
+<p>Github Stats</p>
   <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />
   
   <a href="https://github.com/anuraghazra/convoychat">

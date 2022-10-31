@@ -71,10 +71,9 @@
 
 <!--wakatime Stats-->
 ###Wakatime Stats
-<h3>Hours spent coding this week:  </h3>
+<p>Hours spent coding this week:  
 <a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Aug 31 2022" /></a>
-[![wakatime](https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg)](https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b)
-<a><img src="https://wakatime.com/share/@codedroid/19f10759-ea85-4db3-a321-6dfda0c282da.svg"></a>
+<?p>
 <!---wakatime starts-->
 
 <!--let's connect-->

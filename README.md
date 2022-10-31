@@ -46,10 +46,10 @@
 
 <p align="left">
   <a href="https://github.com/CodeDroid999?tab=followers">
-    <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" width="47%' />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img width="650vw" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" width="47%"/>
   </a>
 </p>
 <!--Github Stats-->

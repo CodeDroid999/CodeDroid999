@@ -72,7 +72,7 @@
 <p><h4>Hours spent coding this week: </h4>  
 <a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Aug 31 2022" /></a>
 </p>
-<img src="https://wakatime.com/share/@codedroid/64e31803-9651-41be-8a69-625e658b3280.svg"></img>
+<img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
 <!---wakatime starts-->
 
 <!--let's connect-->

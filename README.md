@@ -98,7 +98,7 @@
 # 😂 Here is a random joke for you today: -
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) 
   
 
 

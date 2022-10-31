@@ -43,7 +43,7 @@
 <!--github stats-->
 ### Github Stats
 <!-- (Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
 <!--(Generate Snake) Action on your default Branch -->
 <p>
   <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />
@@ -58,7 +58,7 @@
 
 
 <!--Github Stats-->
-<figure><embed src="https://wakatime.com/share/@codedroid/2cd519cd-4996-481f-a4d4-591d9a7bc31d.svg"></embed></figure>
+<a><img src="https://wakatime.com/share/@codedroid/2cd519cd-4996-481f-a4d4-591d9a7bc31d.svg"></a>
 <!--Trophies-->
 ### My Trophies
 

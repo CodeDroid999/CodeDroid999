@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img width="100vw" margin="0px" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<img margin="0px" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -45,16 +45,14 @@
 <!--(Generate Snake) Action on your default Branch -->
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark" /></p>
 
-<p align="left">
+
   <a href="https://github.com/CodeDroid999?tab=followers">
-    <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" width="47%' />
-  </a>
-</p>    
-<p>   
+    <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge"' />
+  </a> 
   <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
   </a>
-</p>
+
 <!--Github Stats-->
 
 <!--let's connect-->

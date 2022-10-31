@@ -34,7 +34,8 @@
   
 <!--Trophies-->
 ### My Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&theme=onedark&no-bg=false&count_private=true)
+![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
+&column=8&row=1&theme=monokai&no-frame=true
 <!--Trophies-->
 
 <!--github stats-->

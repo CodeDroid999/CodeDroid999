@@ -105,7 +105,7 @@
   
 
 <p align="center"> 
-  Visitor count<br>
+  Profile Views<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
 

@@ -71,7 +71,7 @@
 
 <!--wakatime Stats-->
 ###Wakatime Stats
-[![wakatime](https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg)](https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b)
+<p>Hours spent coding this week:[![wakatime](https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg)](https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b)</p>
 <a><img src="https://wakatime.com/share/@codedroid/19f10759-ea85-4db3-a321-6dfda0c282da.svg"></a>
 <!---wakatime starts-->
 

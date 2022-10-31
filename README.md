@@ -63,7 +63,7 @@
 
 <--wakatime Stats-->
 ###Wakatime Stats
-<a><img height="200px" src="https://wakatime.com/share/@codedroid/19f10759-ea85-4db3-a321-6dfda0c282da.svg"></a>
+<a><img src="https://wakatime.com/share/@codedroid/19f10759-ea85-4db3-a321-6dfda0c282da.svg"></a>
 <---wakatime starts-->
 
 

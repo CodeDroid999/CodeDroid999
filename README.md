@@ -79,7 +79,18 @@
 <img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
 <!---wakatime starts-->
 
-<!--let's connect-->
+
+
+# 😂 Here is a random joke for you today: -
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<p align="left">Did you get it?!😁....I know you did!😂</p>
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) 
+  
+ <p align="left">See what I did there?!....Star my repos please!😁 and.....</p> 
+ <!--let's connect-->
 <h1 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
 <p align='left'>
   <a href="https://wa.me/+254757768262">
@@ -96,18 +107,6 @@
   </a>&nbsp;&nbsp;
  
  <!--let's connect-->
- 
-
-
-# 😂 Here is a random joke for you today: -
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<p align="left">Did you get it?!😁....I know you did!😂</p>
-
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) 
-  
- <p align="left">See what I did there?!....Star my repos please!😁</p> 
 
 <p align="center"> 
   Profile Views<br>

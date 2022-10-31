@@ -7,9 +7,7 @@
   <img align="left" width="650vw" height="200px" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&theme=blue-green" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="650vw" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
-</a>
+
  
 
 
@@ -49,6 +47,9 @@
 <p align="left">
   <a href="https://github.com/CodeDroid999?tab=followers">
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img width="650vw" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6" />
   </a>
 </p>
 <!--Github Stats-->

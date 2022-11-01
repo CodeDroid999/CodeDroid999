@@ -89,7 +89,7 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) 
   
- <p align="left">See what I did there?!....Star my repos please!😁 and.....</p> 
+ <p align="left">See what I did there?!....Star☆ my repos please!😁 and.....</p> 
  <!--let's connect-->
 <h1 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
 <p align='left'>

@@ -85,11 +85,11 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<p align="left">Did you get it?!😁....I know you did!😂</p>
+<h4 align="left">Did you get it?!😁....I know you did!😂</h4>
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) 
   
- <p align="left">See what I did there?!....Star☆ my repos please!😁 and.....</p> 
+ <h4 align="left">See what I did there?!....Star☆ my repos please!😁 and.....</h4> 
  <!--let's connect-->
 <h1 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
 <p align='left'>

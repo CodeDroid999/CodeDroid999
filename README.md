@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A71A00E1&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/header_.png"/>
 
 <p>

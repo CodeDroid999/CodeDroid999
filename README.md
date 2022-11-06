@@ -122,5 +122,5 @@
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
 </p>

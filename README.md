@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Mwega!...;A+Software+Engineer+...;and+UI/UX+Designer...;Great+to+have+you+here!🖤&center=true&size=20">
   </a>
 </h1>
+<img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/github-contribution-grid-snake.svg">
 
 <p>
   <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />

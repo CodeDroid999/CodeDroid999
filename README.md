@@ -9,7 +9,7 @@
 <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/header_.png">
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" width="47%" />
   
   <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>

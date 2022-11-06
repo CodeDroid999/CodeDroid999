@@ -6,6 +6,7 @@
   </a>
 </h1>
 
+<img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/header_.png">
 
 <p>
   <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />

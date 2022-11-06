@@ -7,6 +7,15 @@
 </h1>
 
 <p>
+  <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
+  </a>
+  <a>
+ <p>
+
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left"height="200px" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&show_icons=true&hide_border=true&theme=dark&no-frame=true" />
 </a>
@@ -49,14 +58,7 @@
 <!-- (Generate Snake) Action on default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
 <!--(Generate Snake) Action on default Branch -->
-<p>
-  <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true" />
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
-  </a>
-  <a>
- <p>
+
  <!--Github Stats-->
 
 

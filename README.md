@@ -119,8 +119,7 @@
 
 
    
-   
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />

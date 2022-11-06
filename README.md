@@ -115,12 +115,5 @@
 <p align="center"> 
   Profile Views<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
-</p>
-
-
-   
-
-
-<p align="center">
-        <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
 </p>

@@ -84,7 +84,7 @@
 <!---wakatime starts-->
 
 <!--- more metrics--->
-<h3 align="left">click me for more metrics and insight</h3>
+<h3 align="left">More metrics and insight? click me👇</h3>
  <a href="https://metrics.lecoq.io/insights?user=CodeDroid999">
     <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/metrics(1).jpeg" />
   </a>&nbsp;&nbsp;  

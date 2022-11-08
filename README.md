@@ -111,8 +111,10 @@
   </a>&nbsp;&nbsp;
   
   
-  
-  <img src="https://metrics.lecoq.io/insights?user=CodeDroid999"/>
+ 
+    <img src="https://metrics.lecoq.io/insights?user=CodeDroid999" />
+  </a>&nbsp;&nbsp; 
+
  
  <!--let's connect-->
 

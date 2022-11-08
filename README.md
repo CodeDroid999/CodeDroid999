@@ -20,11 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
   </a>
  <p>
-   
-   
-   <p>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true&title_color=009933)](https://github.com/Codedroid999/Codedroid999)
-   </p>
  <!--streaks-->
 
 <!--technologies-->
@@ -38,9 +33,7 @@
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
     ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
  <p>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left"height="200px" src="https://github-readme-stats.vercel.app/apiusername=CodeDroid999&count_private=true&show_icons=true&hide_border=true&theme=dark&no-frame=true" />
-   </a>                          
+ ![Mwega's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&show_icons=true&hide_border=true&theme=dark&no-frame=true)                          
                                         
                                        
 </p>

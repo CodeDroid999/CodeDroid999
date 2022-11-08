@@ -20,6 +20,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
   </a>
  <p>
+   
+   
+   <p>
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true&title_color=009933)](https://github.com/Codedroid999/Codedroid999)
+   </p>
  <!--streaks-->
 
 <!--technologies-->

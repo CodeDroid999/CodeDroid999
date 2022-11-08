@@ -77,7 +77,6 @@
 ### 😂 Here is a random joke for you today: -
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <h3 align="left">Did you get it?!😁....I know you did!😂</h3>
-
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)  
 
  <h3 align="left">See what I did there?!....Star☆ my repos please!😁 and.....</h3> 

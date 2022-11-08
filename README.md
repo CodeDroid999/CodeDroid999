@@ -81,12 +81,14 @@
 <a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Aug 31 2022" /></a>
 </p>
 <img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-
- <a href="https://metrics.lecoq.io/insights?user=CodeDroid999">
-    <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/metrics.png" />
-  </a>&nbsp;&nbsp;
 <!---wakatime starts-->
 
+<!--- more metrics--->
+<h3 align="left">click me for more metrics and insight</h3>
+ <a href="https://metrics.lecoq.io/insights?user=CodeDroid999">
+    <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/metrics(1).jpeg" />
+  </a>&nbsp;&nbsp;  
+<!---more metrics--->
 
 
 # 😂 Here is a random joke for you today: -

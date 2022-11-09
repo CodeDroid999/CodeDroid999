@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
     ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
    
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+     ![Mbote_Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 <!--Github Stats-->
 
 <!--Experience-->

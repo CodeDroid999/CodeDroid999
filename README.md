@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
     ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
    
-   ![Mwega's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true)
+   ![Mwega's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true)
    
 <!--Github Stats-->
 

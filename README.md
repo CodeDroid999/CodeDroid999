@@ -15,7 +15,7 @@
 <!--streaks-->
 <p>
    
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
    
    
   <a href="https://github.com/anuraghazra/convoychat">

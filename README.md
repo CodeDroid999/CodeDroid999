@@ -75,7 +75,7 @@
 <!---jokes card-->
  
 <!--let's connect-->
-<h1 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
+<h1 align="left" style="color:yellow;margin-bottom: 20px;" >Don't be a stranger, let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h1>  
 <p align='left'>
   <a href="https://wa.me/+254757768262">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />

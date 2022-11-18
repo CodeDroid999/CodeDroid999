@@ -50,6 +50,7 @@
 ![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
 <!--Trophies-->
 
+
 <!--wakatime Stats-->
 ### Wakatime Stats
 <p><h4>Hours spent coding this week: </h4>  
@@ -94,6 +95,7 @@
   _________________________________________________________________________________________________________________________________________________ 
 <!--let's connect-->
   
+   
 <!--footer-->
 <p align="center"> 
   Profile Views<br>

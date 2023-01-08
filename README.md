@@ -105,7 +105,6 @@
 <!--footer-->
 <p align="center"> 
   Profile Views<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
 <!--footer-->

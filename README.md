@@ -77,7 +77,7 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)  
 
- <h3 align="left">See what I did there?!....Star☆ my repos please!😁 and.....</h3> 
+ <h3 align="left">See what I did there?!....<a href="https://github.com/CodeDroid999?tab=repositories">Star☆</a> my repos please!😁 and.....</h3> 
 <!---jokes card-->
  
 <!--let's connect-->

@@ -104,7 +104,7 @@
    
 <!--footer-->
 <p align="center"> 
-  Profile Views<br>
+  <br>
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
 <!--footer-->

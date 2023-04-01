@@ -19,11 +19,11 @@
 <!--streaks-->
 <p>
    
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
    
    
   <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="47%"/>
   </a>
  <p>
  <!--streaks-->

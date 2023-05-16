@@ -40,7 +40,7 @@
  <!--github stats-->
     ### Github Stats
    <a href="https://github.com/CodeDroid999?tab=followers"></a>
-    <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+   
     ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 Grid](https://github.com/CodeDroid999/CodeDroid999/blob/main/github-contribution-grid-snake.svg)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDroid999&theme=dark&hide_border=true"/> 
 <!--Github Stats-->

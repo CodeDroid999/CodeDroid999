@@ -29,7 +29,7 @@
 ### Github Stats
    <a href="https://github.com/CodeDroid999?tab=followers"></a>
     <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
-<p>
+</p>
  <!--streaks-->
    
  

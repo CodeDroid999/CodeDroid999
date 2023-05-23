@@ -102,9 +102,5 @@
 <!--let's connect-->
   
    
-<!--footer-->
-<p align="center"> 
-  <br>
-  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
-</p>
+
 

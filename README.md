@@ -113,5 +113,4 @@
   <br>
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
-<!--footer-->
-<!-- https://wakatime.com/share/@codedroid/b7e28402-d9db-4e7a-821c-090456ea7fa9.svg-->
+

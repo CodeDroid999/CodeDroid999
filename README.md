@@ -71,7 +71,7 @@
 <!---more metrics--->
 
 <!--jokes--->
-### 😂 Here is a random joke for you today: -
+### 😂 Here is a random joke for you today: 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <h3 align="left">Did you get it?!😁....I know you did!😂</h3>
 

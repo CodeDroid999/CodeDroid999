@@ -54,7 +54,7 @@
 <!--Trophies-->
 
 
-<!--wakatime 
+<!--wakatime-->
 ### Wakatime Stats
 <p><h4>Hours spent coding this week: </h4>  
 

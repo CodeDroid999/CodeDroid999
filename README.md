@@ -4,7 +4,7 @@
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
-<!--header-->
+<!--header--->
 
 <!--Typing  svg-->
 <h1 align="center">

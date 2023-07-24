@@ -19,7 +19,7 @@
 <!--streaks-->
 <p>
    
-  <img height="200px" width="75%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
+  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&theme=dark&hide_border=true">
 
    
 </p>

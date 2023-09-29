@@ -20,13 +20,13 @@
 <!--streaks-->
 <p>
    
-  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&hide_border=true">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CodeDroid999&count_private=true&hide_border=true">
 
    
 </p>
 
   <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&langs_count=6&hide_border=true" width="75%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&langs_count=6&hide_border=true" width="100%"/>
   </a>
 
 <a href="https://github.com/CodeDroid999?tab=followers"></a>

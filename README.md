@@ -68,7 +68,7 @@ wakatime starts-->
 <!--- more metrics--->
 <h3 align="left">More metrics and insight? <a href="https://metrics.lecoq.io/insights/CodeDroid999">click me👇</a></h3>
  <a href="https://metrics.lecoq.io/insights/CodeDroid999">
-    <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/metrics(1).jpeg" />
+    <img width="100%" src="https://github.com/CodeDroid999/CodeDroid999/blob/main/metrics(1).jpeg" />
   </a>&nbsp;&nbsp;  
 <!---more metrics--->
 

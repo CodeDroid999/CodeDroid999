@@ -26,7 +26,7 @@
 </p>
 
   <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&langs_count=6&hide_border=true" width="75%"/>
   </a>
 
 <a href="https://github.com/CodeDroid999?tab=followers"></a>

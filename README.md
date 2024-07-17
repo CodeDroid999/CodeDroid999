@@ -23,9 +23,7 @@
    
 </p>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroid999&layout=compact&langs_count=6&hide_border=true" width="100%"/>
-  </a>
+
 
 <a href="https://github.com/CodeDroid999?tab=followers">
 <img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>

@@ -91,23 +91,13 @@ wakatime starts-->
   <a href="https://www.linkedin.com/in/john-mwega">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
- 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=john-mwega" target="_blank">Follow on LinkedIn</a>
+ <p align="left">
+  <a href="https://github.com/CodeDroid999?tab=repositories">
+    <button style="background-color: yellow; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; margin: 10px 2px; border-radius: 4px; color: black;">
+      Star My Repos
+    </button>
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=CodeDroid999&color=yellow)
    <!--let's connect-->

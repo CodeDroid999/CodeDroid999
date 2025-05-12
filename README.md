@@ -44,10 +44,10 @@
 </p>
 <!--Experience-->
 
-<!--Trophie-->
+<!--Trophie
 ### My Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
-<!--Trophies-->
+Trophies-->
 
 
 <!--waka time-->

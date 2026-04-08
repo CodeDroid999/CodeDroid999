@@ -23,11 +23,6 @@
 </p>
 
 
-
-<a href="https://github.com/CodeDroid999?tab=followers">
-<img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
-</a>
- <!--streaks-->
    
  
 
@@ -44,19 +39,10 @@
 </p>
 <!--Experience-->
 
-<!--Trophie
-### My Trophies
+### Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
 Trophies-->
 
-
-<!--waka time-->
-### Wakatime Stats
-<p>
-
-<a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="Total time coded since Aug 31 2022" /></a>
-</p>
-<!--
 <img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
 wakatime starts-->
 

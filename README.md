@@ -31,9 +31,6 @@
 
 
 
-### Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
-
 
 <img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
 wakatime starts-->

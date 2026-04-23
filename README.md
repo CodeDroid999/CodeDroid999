@@ -32,8 +32,6 @@
 
 
 
-<img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-<--wakatime starts-->
 
 <!--- more metrics--->
 <h3 align="left">More metrics and insight? <a href="https://metrics.lecoq.io/insights/CodeDroid999">click me👇</a></h3>
